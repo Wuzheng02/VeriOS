@@ -15,7 +15,7 @@ Paper link: [https://arxiv.org/abs/2509.07553](https://arxiv.org/abs/2509.07553)
    ```
 3. Download the VeriOS-Bench dataset:
   
-   [Google Drive]()
+   [https://huggingface.co/datasets/wuuuuuz/VeriOS-Bench](https://huggingface.co/datasets/wuuuuuz/VeriOS-Bench)
 
 4. Download the pre-trained models:
 
