@@ -19,9 +19,9 @@ Paper link: [https://arxiv.org/abs/2509.07553](https://arxiv.org/abs/2509.07553)
 
 4. Download the pre-trained models:
 
-   VeriOS-Agent-7B: [Hugging Face](https://huggingface.co/wuuuuuz/VeriOS-Agent-7B)
+   VeriOS-Agent-7B: [https://huggingface.co/wuuuuuz/VeriOS-Agent-7B](https://huggingface.co/wuuuuuz/VeriOS-Agent-7B)
 
-   VeriOS-Agent-32B: [Hugging Face](https://huggingface.co/wuuuuuz/VeriOS-Agent-32B)
+   VeriOS-Agent-32B: [https://huggingface.co/wuuuuuz/VeriOS-Agent-32B](https://huggingface.co/wuuuuuz/VeriOS-Agent-32B)
 
 ### 2. Evaluation
 1. Evaluate VeriOS-Agent performance:
