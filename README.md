@@ -45,7 +45,6 @@ To reproduce the training process of VeriOS-Agent from scratch:
 2. Follow the official training tutorials provided in the [LLaMA-Factory repository](https://github.com/hiyouga/LLaMA-Factory).
 
 ## 📋 Citation
-If you find our work useful, please cite our paper:
 ```bibtex
 @article{wu2025verios,
   title={VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents},
