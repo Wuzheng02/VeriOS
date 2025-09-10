@@ -48,7 +48,7 @@ To reproduce the training process of VeriOS-Agent from scratch:
 ```bibtex
 @article{wu2025verios,
   title={VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents},
-  author={Wu, Zheng and Li, Ziyang and Zhang, Yuhang and Zhang, Haowei and Liu, Jiaqi and Li, Yixuan and Zhao, Pu and Wang, Yujia and Xu, Yifan and Zhao, Yuyang and others},
+  author={Zheng Wu and Heyuan Huang and Xingyu Lou and Xiangmou Qu and Pengzhou Cheng and Zongru Wu and Weiwen Liu and Weinan Zhang and Jun Wang and Zhaoxiang Wang and Zhuosheng Zhang},
   journal={arXiv preprint arXiv:2509.07553},
   year={2025}
 }
