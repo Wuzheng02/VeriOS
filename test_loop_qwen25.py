@@ -1,4 +1,4 @@
-from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
+from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
 import re
 import json
@@ -297,7 +297,7 @@ if __name__ == "__main__":
     json_path = args.json_path
     
     logger.info(f"Loading model from: {model_path}")
-    model = Qwen2VLForConditionalGeneration.from_pretrained(
+    model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
         model_path, torch_dtype="bfloat16", device_map="auto", attn_implementation="flash_attention_2"
     )
     processor = AutoProcessor.from_pretrained(model_path, use_fast=True)
